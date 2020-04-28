@@ -6,7 +6,10 @@
 }
 header {
   color: #c6c5c3;
+  width:100%;
+  padding-bottom:10px;
 }
+
 header.medium-movies {
   color: #53ace4;
 }
